@@ -1,5 +1,6 @@
 # Added a string
-(b <- LETTERS)
+(LETTERS)
 
 
 # ???
+# ha ha
